@@ -1,4 +1,4 @@
-# 🖥️ Windows Server System Administration Project
+# Windows Server System Administration Project
 
 A comprehensive Windows Server project covering Active Directory, DHCP, Group Policy, Storage, and Network Services implementation.
 
